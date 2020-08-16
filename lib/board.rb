@@ -1,3 +1,6 @@
 # Define the variable board below.
-var board = [ ]
+row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+
+var board = 
 
